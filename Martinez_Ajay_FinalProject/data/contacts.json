@@ -1,0 +1,22 @@
+[
+    {
+        "name": "& \"C:/Users/Ajay A. Martinez/Appdata/Local/Microsoft/Windowsapps/Python3.13.Exe\" \"C:/Users/Ajay A. Martinez/Onedrive/Documents/Martinez_Ajay_Finalproject/Src/Contact_Book.Py\"",
+        "phone": "1",
+        "email": "& \"c:/users/ajay a. martinez/appdata/local/microsoft/windowsapps/python3.13.exe\" \"c:/users/ajay a. martinez/onedrive/documents/martinez_ajay_finalproject/src/contact_book.py\""
+    },
+    {
+        "name": "Ajay",
+        "phone": "09123456789",
+        "email": "jay@gmail.com"
+    },
+    {
+        "name": "Nash",
+        "phone": "0912237287",
+        "email": "nash@gmail.com"
+    },
+    {
+        "name": "Nathan",
+        "phone": "0922722732",
+        "email": "nath@gmail.com"
+    }
+]
