@@ -26,6 +26,8 @@ This project demonstrates:
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<YourUsername>/  MARTINEZ_AJAY_FinalProject.git
+   git clone https://github.com/ajay070307/MARTINEZ_AJAY_FinalProject.git
    cd MARTINEZ_AJAY_FinalProject
 
+## Watch the full walkthrough of the project here:
+https://youtu.be/EBPDGvLQJhs
